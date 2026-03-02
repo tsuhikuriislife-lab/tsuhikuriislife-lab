@@ -1,20 +1,32 @@
-# Hello devs!
+# Hello devs! 👋💻
 
-I'm **Mateo**, an apprentice from **riwi**!
+I'm **Mateo** 👨‍💻, an apprentice from **riwi** 🚀!
 
-I'm currently learning **python programming** and the use of git! 🖥️
+I'm currently learning **Python programming** 🐍 and the use of **Git** 🌿📂!
 
-## About me
+---
 
-* I like music , cats and videogames .
-* I'm a very experimental and **fast learning** person, i've tried countless hobbies like sculpting, drawing, making music, streaming, but nothing seemed to fit on me.
-* I have no **experience** in programming or developing tho, so this adventure may be **difficult** to keep up with, but ***i'm here for it!***
+## About me 🙋‍♂️
 
-## Things I have learned so far
+- I like music 🎶, cats 🐈 and videogames 🎮👾.  
+- I'm a very experimental and **fast learning** person ⚡🧠. I've tried countless hobbies like sculpting 🗿, drawing 🎨, making music 🎧, streaming 🎥, but nothing seemed to fully fit me yet.  
+- I have no **experience** in programming or developing 💻❌, so this adventure may be **difficult** ⚔️, but ***I'm here for it!*** 💪🔥  
 
-### In Python:
-* Input and output of information
-* Conditionals
-* While loops and For loops
+---
 
-_That's it_, I hope your journey brings **good things** for **you** and the people **around you**, ***stay safe!***
+## Things I have learned so far 📚✨
+
+### In Python 🐍
+
+- Input and output of information ⌨️📥📤  
+- Conditionals 🔀  
+- While loops 🔁  
+- For loops 🔂  
+
+---
+
+_That's it!_ 🎉  
+
+I hope your journey brings **good things** 🌟 for **you** and the people **around you** 🤝❤️.  
+
+***Stay safe!*** 🛡️✨
